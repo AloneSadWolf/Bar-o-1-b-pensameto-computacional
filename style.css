@@ -1,4 +1,9 @@
 body{
-    text-align: cebter;
-    background: rgb(4, 37, 146);
+    text-align: center;
+    background: rgb(50, 2, 88);
+    color: crimson;
+}
+
+.capa{
+    width: 100%;   
 }
