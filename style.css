@@ -1,9 +1,32 @@
 body{
     text-align: center;
-    background: rgb(50, 2, 88);
-    color: crimson;
+    background: rgb(17, 0, 255);
+    color: rgb(0, 0, 0);
 }
 
 .capa{
     width: 100%;   
+}
+img {
+    width: 500px;
+    height: 500px;
+}
+img, p {
+    display: inline-block;
+}
+image,p {
+    float: center;
+}
+.beneficius {
+text-align: left;
+
+background-color: black;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 200px ;
+}
+li{
+    padding: 20px;
 }
